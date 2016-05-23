@@ -1,0 +1,55 @@
+﻿.style1
+{
+    width:390px;
+    height :300px;
+    margin:0 0 0 0;
+    padding:0 0 0 0;
+}
+.style2
+{
+    width:100%;
+    height:15px;
+    margin:0 0 0 0;
+    padding:0 0 0 0;
+}
+.style3
+{
+    width:100%;
+    height:15px;
+    margin:3px 0 0 0;
+    padding:0 0 0 0;
+}
+
+.style4
+{
+    width:96px;
+    height:110px;
+    margin:3px 0 0 0;
+    padding:0 0 0 0;
+}
+.style5
+{
+    width:100%;
+    height:15px;
+    margin:3px 0 0 0;
+    padding:0 0 0 0;
+}
+.style6
+{
+  width:98%;
+  height:133px; 
+  margin:3px 0 0 0;
+  padding:0 0 0 0;
+ }
+#ul
+{
+    list-style-type:none;
+    margin:0 0 0 0;
+    padding:0 0 0 0;
+}
+#ul li a
+{
+    text-align:left;
+    height:24px;
+  
+}
